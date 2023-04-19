@@ -62,12 +62,10 @@
 <h2></h2>
 </br>
 
-<a href=&quothttps://github.com/Mmomenzadeh&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=Mmomenzadeh&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
-
-<a href=&quothttps://github.com/Mmomenzadeh&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&quot />
-</a>
+<div align="center">
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=Mmomenzadeh&theme=dracula" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&langs_count=4&theme=dracula" />
+</div>
 
 <!--
 **Mmomenzadeh/Mmomenzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
