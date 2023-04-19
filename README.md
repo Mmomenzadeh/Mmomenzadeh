@@ -61,9 +61,10 @@
 
 <h2></h2>
 </br>
-| <a href="https://github.com/Mmomenzadeh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmomenzadeh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mmomenzadeh's github stats" /></a> | <a href="https://github.com/Mmomenzadeh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
+
+| <a href="https://github.com/Mmomenzadeh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmomenzadeh&show_icons=true&include_all_commits=true&theme=buefy" alt="Mmomenzadeh's github stats" /></a> | <a href="https://github.com/Mmomenzadeh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&layout=compact&theme=buefy" /></a> |
+| ------------- | ------------- |
 
   <h3 >Top Repositories</h3>
  
