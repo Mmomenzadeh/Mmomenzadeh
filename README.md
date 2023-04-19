@@ -67,8 +67,8 @@
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&langs_count=4&theme=buefy" />
 </div>
 
-  <h3 align="center">Top Repositories</h3>
-  <div align="center">
+  <h3 >Top Repositories</h3>
+  <div display: "flex"  justify-content:"space-between">
   <a href="https://github.com/Mmomenzadeh/Final-Project_maktab-85">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmomenzadeh&repo=Final-Project_maktab-85&theme=buefy" />
   </a>
