@@ -45,21 +45,15 @@
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://material-ui.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="Material-UI" width="45" height="45" /></a>
+ 
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://d3js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://www.php.net/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="45"
-      height="45" /></a>
+  
+ 
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
@@ -71,15 +65,12 @@
 <h2></h2>
 </br>
 
-<div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=Mmomenzadeh
-&theme=dracula" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh
-&langs_count=4&theme=dracula" />
-</div>
+<a href=https://github.com/Mmomenzadeh>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=Mmomenzadeh&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
 
-
-
+<a href=https://github.com/Mmomenzadeh>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&quot />
+</a>
 
 <!--
 **Mmomenzadeh/Mmomenzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
