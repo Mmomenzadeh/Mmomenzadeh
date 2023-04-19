@@ -45,15 +45,12 @@
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
- 
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
-  
- 
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
@@ -65,10 +62,10 @@
 <h2></h2>
 </br>
 
-<a href=https://github.com/Mmomenzadeh>
+<a href=&quothttps://github.com/Mmomenzadeh&quot>
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=Mmomenzadeh&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
 
-<a href=https://github.com/Mmomenzadeh>
+<a href=&quothttps://github.com/Mmomenzadeh&quot>
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Mmomenzadeh&quot />
 </a>
 
