@@ -18,46 +18,46 @@
 
 <h2></h2>
 
-**<p>Languages and Tools</p>**
+**<h2>Languages and Tools</h2>**
 
-<p >
-  <a target="_blank" href="https://javascript.info/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-      alt="JavaScript" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.w3schools.com/html/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
-      width="45" height="45" /></a>
-  <a target="_blank" href="https://www.w3schools.com/css/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://webpack.js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
-      width="45" height="45" /></a>
-  <a target="_blank" href="https://reactjs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
-      width="45" height="45" /></a>
-  <a target="_blank" href="https://redux.js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
-      width="45" height="45" /></a>
-  <a target="_blank" href="https://jquery.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-      alt="jQuery" width="45" height="45" /></a>
-  <a target="_blank" href="https://sass-lang.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://getbootstrap.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="Bootstrap" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.figma.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
-      width="45" height="45" /></a>
-  <a target="_blank" href="https://git-scm.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://github.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
-      height="45" /></a>
-</p>
+   <p >
+        <a target="_blank" href="https://javascript.info/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+            alt="JavaScript" width="30" height="30" /></a>
+        <a target="_blank" href="https://www.w3schools.com/html/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
+            width="30" height="30" /></a>
+        <a target="_blank" href="https://www.w3schools.com/css/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30"
+            height="30" /></a>
+        <a target="_blank" href="https://webpack.js.org/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
+            width="30" height="30" /></a>
+        <a target="_blank" href="https://reactjs.org/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+            width="30" height="30" /></a>
+        <a target="_blank" href="https://redux.js.org/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
+            width="30" height="30" /></a>
+        <a target="_blank" href="https://jquery.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+            alt="jQuery" width="30" height="30" /></a>
+        <a target="_blank" href="https://sass-lang.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30"
+            height="30" /></a>
+        <a target="_blank" href="https://getbootstrap.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="Bootstrap" width="30" height="30" /></a>
+        <a target="_blank" href="https://www.figma.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
+            width="30" height="30" /></a>
+        <a target="_blank" href="https://git-scm.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="30"
+            height="30" /></a>
+        <a target="_blank" href="https://github.com/"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="30"
+            height="30" /></a>
+      </p> 
 
 
 </br>
