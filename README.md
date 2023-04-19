@@ -71,15 +71,11 @@
 
 
 <a href="https://github.com/Mmomenzadeh/Final-Project_maktab-85">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmomenzadeh&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmomenzadeh&repo=Final-Project_maktab-85&theme=buefy" />
 </a>
 <a href="https://github.com/Mmomenzadeh/webApplication_shoeaProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmomenzadeh&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmomenzadeh&repo=webApplication_shoeaProject&theme=buefy" />
 </a>
-
-<br />
-<br />
-
 
 <!--
 **Mmomenzadeh/Mmomenzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
