@@ -18,9 +18,9 @@
 
 <h2></h2>
 
-**<p align="center">Languages and Tools</p>**
+**<p>Languages and Tools</p>**
 
-<p align="center">
+<p >
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
