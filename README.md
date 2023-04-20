@@ -1,16 +1,14 @@
-<p align="center"><a href="https://Mmomenzadeh.github.io"><img width="80%" alt="Hello, I'm Mahsa Momenzadeh. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Mmomenzadeh.github.io"><img width="80%" alt="Hello, I'm Mahsa Momenzadeh. I'm an engineer , Front-End Developer , open-sourcer , and ride-or-die JavaScript !" src="./assets/introduction.png" /></a></p>
 
 <br />
 
-I'm an engineer,Front-End Developer,open-sourcer, and ride-or-die JavaScripter.
 
 
 
 **How to reach me**
-
-
-
-- 💬 Ask me about anything [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
+ 💬 telegram [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
+ 💬 what's App [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
+ 💬 Ask me about anything [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
 
 
    <p >
