@@ -7,11 +7,12 @@
 
 **How to reach me**
  - 💬 telegram [here](https://t.me/MMomenzadeh1999)
- - 💬 what's App [here](https://wa.me/+989178166087)
+ - 💬 WhatsApp [here](https://wa.me/+989178166087)
  - 💬 Ask me about anything [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
 
 
-   <p >
+## Languages and Tools
+    <p >
         <a target="_blank" href="https://javascript.info/"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
             alt="JavaScript" width="30" height="30" /></a>
