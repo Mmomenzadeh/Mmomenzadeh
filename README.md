@@ -12,7 +12,7 @@
 
 
 ## Languages and Tools
-    <p >
+<p >
         <a target="_blank" href="https://javascript.info/"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
             alt="JavaScript" width="30" height="30" /></a>
