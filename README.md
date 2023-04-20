@@ -6,9 +6,9 @@
 
 
 **How to reach me**
- 💬 telegram [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
- 💬 what's App [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
- 💬 Ask me about anything [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
+ - 💬 telegram [here](https://t.me/MMomenzadeh1999)
+ - 💬 what's App [here](https://wa.me/+989178166087)
+ - 💬 Ask me about anything [here](https://github.com/Mmomenzadeh/Mmomenzadeh/issues)
 
 
    <p >
